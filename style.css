@@ -46,3 +46,6 @@ h1{
 .box .one .two{
     margin: 10px;
 }
+.flex-container {
+    display: flex;
+}
