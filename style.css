@@ -1,0 +1,48 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.onery{
+    padding-left: 180px;
+}
+.name img{
+    border-radius: 180px;
+}
+
+.oner{
+    padding-right: 100px;
+}
+.name .oner{
+    font-size: 24px;
+    margin: 10px;
+}
+.box img{
+    border-radius: 180px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.box p{
+    font-size: 24px;
+    margin: 10px;
+}
+.one {
+    flex: 1 1 0;
+    padding-left: 180px;
+}
+
+.two {
+    flex: 1 1 0;
+    padding-right: 100px;
+}
+.box .one .two{
+    margin: 10px;
+}
