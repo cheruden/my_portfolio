@@ -76,3 +76,9 @@ h4{
 .flx-container p{
     font-size: 20px;
 }
+a{
+    font-size: 30px;
+}
+ul{
+    list-style-type: none;
+}
