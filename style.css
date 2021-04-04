@@ -46,6 +46,30 @@ h1{
 .box .one .two{
     margin: 10px;
 }
-.flex-container {
+/*projects list*/
+.flx-container{
     display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding-left: 180px;
+    padding-right: 100px;
+}
+.three{
+    flex: 1 1 1;
+    border: 1px solid black;
+
+}
+.four{
+    flex: 1 1 1;
+    border: 1px solid black;
+}
+.five{
+    flex: 1 1 1;
+    border: 1px solid black;
+}
+h4{
+    font-size: 24px;
+    font-style: oblique;
+    color: blue;
+    text-align: center;
 }
