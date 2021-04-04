@@ -19,7 +19,7 @@ To access this project on your local files, you can clone it using these steps
 2. CSS
 3. Git
 ### Live Site
-View [live](https://cheruden.github.io/My-favourite-band/)
+View [live](' https://cheruden.github.io/my_portfolio/')
 ### Licence
 This project is under the [MIT](LICENSE) license
 License format:
